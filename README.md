@@ -10,9 +10,7 @@ Passionate about data analytics, problem-solving, and creating efficient solutio
 
 💡 Skills
 
-Programming: Python
-
-Data Management: SQL
+[![My Skills](https://skillicons.dev/icons?i=mysql,python)](https://skillicons.dev)
 
 Data Visualization: Power BI
 
