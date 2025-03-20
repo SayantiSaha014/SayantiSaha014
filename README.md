@@ -10,7 +10,7 @@ Passionate about data analytics, problem-solving, and creating efficient solutio
 
 💡 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,py)](https://skillicons.dev)
 
 Data Visualization: Power BI
 
