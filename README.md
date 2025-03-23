@@ -28,9 +28,9 @@ Attention to Detail
 
 🔧 Projects
 
-Currently, I'm working on : Customer Churn Prediction Analysis
+Recently I finished working on : Customer Churn Prediction Analysis
 
-Description: In the project, "Customer Churn Prediction Analysis, I leverage the power of machine learning with Python to predict potential churn, enabling proactive strategies for customer retention. The predictive model, built using Random Forest algorithm, identifies key factors contributing to customer attrition. With the help of PowerBI Dashboard, we can get an in-depth analysis.
+Description: In the project, "Customer Churn Prediction Analysis, I leverage the power of machine learning with Python to predict potential churn, enabling proactive strategies for customer retention. The predictive model, built using Random Forest algorithm. With the help of PowerBI Dashboard, we can get an in-depth analysis.
 
 Skills Used: Power BI, Python, Pandas, Matplotlib, Seaborn, Machine Learning, Random Forest Regression
 
