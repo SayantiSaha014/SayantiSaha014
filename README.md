@@ -28,11 +28,11 @@ Attention to Detail
 
 🔧 Projects
 
-Recently I finished working on : Customer Churn Prediction Analysis
+Currently, I am working on:  🛒 E-Commerce Furniture Dataset 2024  🛒
 
-Description: In the project, "Customer Churn Prediction Analysis, I leverage the power of machine learning with Python to predict potential churn, enabling proactive strategies for customer retention. The predictive model, built using Random Forest algorithm. With the help of PowerBI Dashboard, we can get an in-depth analysis.
+Description: The E-Commerce Furniture project comprises 2,000 entries, detailing a variety of furniture products. It captures key sales metrics and product details, offering a snapshot of consumer purchasing patterns and market trends in the online furniture retail space.
 
-Skills Used: Power BI, Python, Pandas, Matplotlib, Seaborn, Machine Learning, Random Forest Regression
+Skills Used: Python, Pandas, Matplotlib, Seaborn, Machine Learning
 
 🔗 Connect With Me
 
@@ -42,4 +42,4 @@ Email: sayantisaha014@gmail.com , sayanti2017saha@gmail.com
 
 Contact: 9474828476
 
-Thanks for stopping by! Feel free to explore my repositories and connect with me. 🚀
+Thanks for stopping by! Please feel free to explore my repositories and reach out to me. 🚀
