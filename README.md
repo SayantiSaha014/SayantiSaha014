@@ -40,6 +40,4 @@ Linkedin: www.linkedin.com/in/sayanti-saha-a4aba1227
 
 Email: sayantisaha014@gmail.com , sayanti2017saha@gmail.com
 
-Contact: 9474828476
-
 Thanks for stopping by! Please feel free to explore my repositories and reach out to me. 🚀
