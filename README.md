@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 
 Passionate about data analytics, problem-solving, and creating efficient solutions using modern tools and technologies.
 
-![image](https://github.com/user-attachments/assets/c172336c-75f1-42aa-b385-d74234bf5f2c)
+![sayantisaha_cover](https://github.com/user-attachments/assets/2895e9b9-4cf1-4959-84df-61ce3edc5072)
 
 💡 Skills
 
