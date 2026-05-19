@@ -38,6 +38,6 @@ Skills Used: Python, Pandas, Matplotlib, Seaborn, Machine Learning
 
 Linkedin: www.linkedin.com/in/sayanti-saha-a4aba1227
 
-Email: sayantisaha014@gmail.com , sayanti2017saha@gmail.com
+Email: sayantisaha014@gmail.com 
 
 Thanks for stopping by! Please feel free to explore my repositories and reach out to me. 🚀
